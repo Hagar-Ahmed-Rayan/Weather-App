@@ -1,7 +1,11 @@
 # weather_app
-
-A new Flutter project.
-
+weather app project is a simple project to get weather over the days in different countries where you can search for the country and switch between dark and light mode using:
+1-weather Apis
+2-shared preference to save dark or light mode state
+3-Dio
+4-cubit state management
+the demo link is here:
+https://drive.google.com/file/d/1JriEFRnlpBNy4lWDInZq2GtdYEpqwX8N/view?usp=drivesdk
 ## Getting Started
 
 This project is a starting point for a Flutter application.
